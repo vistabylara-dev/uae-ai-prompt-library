@@ -1,0 +1,3 @@
+# Sources and attribution
+
+The library credits [prompts.chat](https://prompts.chat/) and its contributors. The [pinned CSV](https://github.com/f/prompts.chat/blob/ae213a68143347d7322f0406e72ed233f6989e1c/prompts.csv) has 3,173 records and SHA-256 `1d81cbd3473fdde9b1033e3192b88fb08dcefa70a91e500bd158ec41f4f7b13b`. The pinned [upstream license](https://github.com/f/prompts.chat/blob/ae213a68143347d7322f0406e72ed233f6989e1c/LICENSE) identifies upstream prompt data as CC0 1.0. The media snapshot contains the **prompt text** and individual source links from the [public API](https://prompts.chat/docs/api), retrieved on 24 November 2026. Media previews and third-party photographs are outside this repository. Vista’s original templates are attributed to Vista by Lara.
